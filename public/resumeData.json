@@ -1,45 +1,35 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Kautab Chakraborty",
+    "occupation": "Full-stack Developer",
+    "description": "trying to rock the world with my keyboard",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Kaustab!I've been coding for over 5 years now. As a Full Stack developer I'm trying to find my way through this 'Devosphere'",
+    "contactmessage": "Get in touch with me!",
+    "email": "kaustabc24@gmail.com",
+    "phone": "+91 9748675506",
     "address": {
       "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "Kolkata",
+      "state": "Devland",
+      "zip": "7000yo"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/kaustab-chakraborty-b71062238/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/_.costab._/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/kaustab28",
         "className": "fa fa-github"
       }
     ]
@@ -48,24 +38,22 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "St. Lawrence High School",
+        "degree": "Bachelor's Degree, Computer Science with Specialization in CSE & AIML"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "Idkutellme",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "present - future",
+        "description": "Just embarking on my journey. Miles to go before I sleep."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "95%"
       },
       {
         "name": "Python",
@@ -73,7 +61,7 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
@@ -81,7 +69,7 @@
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "85%"
       }
     ]
   },
